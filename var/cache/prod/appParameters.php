@@ -1,0 +1,25 @@
+<?php return array (
+  'parameters' => 
+  array (
+    'database_host' => '127.0.0.1',
+    'database_port' => '',
+    'database_name' => 'zab_shop',
+    'database_user' => 'root',
+    'database_password' => '',
+    'database_prefix' => 'ps_',
+    'database_engine' => 'InnoDB',
+    'mailer_transport' => 'smtp',
+    'mailer_host' => '127.0.0.1',
+    'mailer_user' => NULL,
+    'mailer_password' => NULL,
+    'secret' => 'Tk48n29bfkPS4mbe8V4Iikzq48U2CUPqipzT1gN91x5zWMzbfVT4cF4DXkOgT2Le',
+    'ps_caching' => 'CacheMemcache',
+    'ps_cache_enable' => false,
+    'ps_creation_date' => '2020-12-18',
+    'locale' => 'fr-FR',
+    'use_debug_toolbar' => true,
+    'cookie_key' => 'LTVufiuaiHLmI6MH83sfdQ9v82LNv1Q5hSxfBzWaEHzkqC1yjhGTjxnoiDaYBXUY',
+    'cookie_iv' => 'qwHaZTbCxejKWruSfyU9iVIP6oWzWMze',
+    'new_cookie_key' => 'def00000d98345f1bf5b47f1b594a0482c1c4eac5b324f939b8fa6b261e885dcf055a658b2308291d08c27b76f997a5c353a84eb07eb002245170444c074b49a154e20b2',
+  ),
+);
